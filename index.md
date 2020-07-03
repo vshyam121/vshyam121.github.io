@@ -2,8 +2,8 @@
 
 ---
 
-[PizzaTime](/pizza-me) - e-commerce website
-<br/>
+[PizzaTime](/pizza-me) (e-commerce website)
+<br>
 <img src="images/PizzaTime.png?raw=true"/>
 
 ---
