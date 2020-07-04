@@ -9,5 +9,3 @@
 <a href="https://github.com/vshyam121/pizza-time">View code</a>
 
 ---
-
-
