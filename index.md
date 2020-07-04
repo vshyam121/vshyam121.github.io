@@ -3,10 +3,11 @@
 ---
 
 [PizzaTime](/pizza-me) (e-commerce website)
-<br>
-<img src="images/PizzaTime.png?raw=true"/>
+<br/><br/>
+<a href="https://vshyam121.github.io/pizza-time"><img src="images/PizzaTime.png?raw=true"/></a>
+<br/><br/>
+<a href="https://github.com/vshyam121/pizza-time">View code</a>
 
 ---
 
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
