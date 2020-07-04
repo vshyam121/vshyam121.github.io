@@ -2,7 +2,7 @@
 
 ---
 
-[PizzaTime](/pizza-me) (e-commerce website)
+[PizzaTime](/pizza-me) (e-commerce website demo)
 <br/>
 -- Designed and implemented React.js/Redux based frontend of a responsive e-commerce web application that lets users customize and buy various types of pizzas based on toppings, crust type, size, etc.
 <br/>
