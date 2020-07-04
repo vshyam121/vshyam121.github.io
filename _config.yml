@@ -5,7 +5,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Currently, I'm a Senior Software Engineer at Musicians Institute, specializing in full stack Javascript development. 
   <br><br>
-  <a href="https://drive.google.com/file/d/1fu0YE4uDYFapgbwMS1Gpcd4gj09cWSHv/view?usp=sharing">View My Resume</a> 
+  <a href="https://drive.google.com/file/d/1fu0YE4uDYFapgbwMS1Gpcd4gj09cWSHv/view?usp=sharing">View My Resume</a>
+  <br><br>
   
 theme: jekyll-theme-dinky
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
