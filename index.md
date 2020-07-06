@@ -2,7 +2,7 @@
 
 ---
 
-[PizzaTime](/pizza-me) (e-commerce website demo)
+[PizzaTime](/pizza-time) (e-commerce website demo)
 * Designed and implemented React.js/Redux based frontend of a responsive e-commerce web application that lets users customize and buy various types of pizzas based on toppings, crust type, size, etc.
 * Complete with sign up/sign in, form validation, making delivery/carryout orders, viewing past orders, and shopping cart functionalities.
 * Developed reusable components from scratch using Sass, Flex box and CSS Grid. 
