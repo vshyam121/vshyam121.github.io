@@ -11,7 +11,7 @@
 
 * Backend is Node.js/Express based. Developed a RESTful API and interfaces with MongoDB.
 <br/><br/>
-<a href="https://uforum-app.herokuapp.com"><img src="images/UForum.png?raw=true"/></a>
+<a href="https://uforum-app.herokuapp.com"><img src="images/UForum.png"/></a>
 <br/><br/>
 <a href="https://github.com/vshyam121/uforum">View frontend code</a>
 <br/><br/>
