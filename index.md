@@ -19,7 +19,7 @@
 
 ---
 
-[PizzaTime](/pizza-time) (e-commerce website)
+[PizzaTime](/pizza-time)
 * Designed and implemented a full stack responsive e-commerce web application that lets users customize and buy various types of pizzas based on toppings, crust type, size, etc.
 
 * Frontend is React.js/Redux based. Developed reusable components from scratch using Sass, Flex box and CSS Grid. 
