@@ -2,7 +2,7 @@
 
 ---
 
-<a href="https://uforum-app.herokuapp.com">UForum</a>
+[UForum](/uforum)
 * Designed and implemented a full stack responsive forum discussion web application.
 
 * Frontend is React.js/Redux based. Developed reusable components from scratch using Sass and Flex box. 
@@ -11,7 +11,7 @@
 
 * Backend is Node.js/Express based. Developed a RESTful API and interfaces with MongoDB.
 <br/><br/>
-<a href="https://uforum-app.herokuapp.com"><img src="images/UForum.png"/></a>
+<a href="https://vshyam121.github.io/uforum"><img src="images/UForum.png"/></a>
 <br/><br/>
 <a href="https://github.com/vshyam121/uforum">View frontend code</a>
 <br/><br/>
